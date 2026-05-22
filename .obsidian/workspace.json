@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -187,8 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "198742587942d44e",
+  "active": "95124480fb92f6f1",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "未命名.base",
     "欢迎.md",
     "未命名.md",
     "未命名 1",
