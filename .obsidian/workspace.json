@@ -11,10 +11,14 @@
             "id": "9f9f1402513878e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "未命名"
             }
           }
         ]
@@ -187,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95124480fb92f6f1",
+  "active": "9f9f1402513878e8",
   "lastOpenFiles": [
+    "未命名.md",
     "逻辑.md",
     "Computatinal physics.pdf",
     "未命名",
