@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -188,10 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95124480fb92f6f1",
+  "active": "9f9f1402513878e8",
   "lastOpenFiles": [
-    "未命名.canvas",
     "未命名.base",
+    "Computatinal physics.pdf",
+    "未命名.canvas",
     "欢迎.md",
     "未命名.md",
     "未命名 1",
