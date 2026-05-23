@@ -1,0 +1,9 @@
+pycache/
+*.py[cod]
+venv/
+env/
+.env
+.vscode/
+Thumbs.db
+.DS_Store
+simulation_results/
